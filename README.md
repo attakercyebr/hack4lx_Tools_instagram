@@ -2,7 +2,6 @@
 
 **********************************************************
 
-# Image:
 ![Locations](https://github.com/attakercyebr/hack4lx_Tools_instagram/blob/master/rtrtrt.png) 
 
 **********************************************************
