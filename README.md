@@ -1,9 +1,4 @@
-# hack4lx_Tools_instagram
-
-**********************************************************
-
-#Image:
-![Locations](https://github.com/attakercyebr/hack4lx_Tools_instagram/blob/master/Instagram2016_white-(64px).png ) 
+# hack4lx_Tools_instagram![Locations](https://github.com/attakercyebr/hack4lx_Tools_instagram/blob/master/Instagram2016_white-(64px).png ) 
 
 **********************************************************
 
